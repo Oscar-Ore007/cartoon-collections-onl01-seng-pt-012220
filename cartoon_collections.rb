@@ -25,9 +25,9 @@ summon_captain_planet(planeteer_calls)
 
 
 assorted_words = ["two", "go", "industrious", "bop"]
-long_planeteer_calls(assorted_words)
+def long_planeteer_calls(assorted_words)
 
-ef long_planeteer_calls(array)
+def long_planeteer_calls(array)
   i = 0 
   if assorted_words
 end
