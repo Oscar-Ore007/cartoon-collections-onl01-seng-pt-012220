@@ -29,7 +29,7 @@ long_planeteer_calls(assorted_words)
 
 ef long_planeteer_calls(array)
   i = 0 
-  if 
+  if assorted_words
 end
 
 def find_the_cheese# code an argument here
